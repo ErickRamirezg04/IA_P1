@@ -1,5 +1,7 @@
 # LAB: TRIÁNGULO (POO Y COMPOSICIÓN)
 # -----------------------------------------------------------------------------
+import math
+
 class PuntoCoordenada:
     def __init__(self, coord_x=0.0, coord_y=0.0):
         self.__x = coord_x
